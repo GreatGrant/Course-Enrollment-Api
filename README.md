@@ -71,22 +71,6 @@ The API will be available at: `http://127.0.0.1:8000`
 - **Swagger UI**: http://127.0.0.1:8000/docs
 - **ReDoc**: http://127.0.0.1:8000/redoc
 
-### Populating Sample Data
-
-To populate the database with sample data (users, courses, and enrollments), run:
-
-```bash
-python populate_sample_data.py
-```
-
-This script will create:
-- 2 Admin users
-- 5 Student users
-- 5 Courses
-- 12 Enrollments
-
-**Note**: The server must be running before executing the population script.
-
 ## Running Tests
 
 Run all tests:
