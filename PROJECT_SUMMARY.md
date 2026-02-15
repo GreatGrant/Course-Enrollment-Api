@@ -148,16 +148,6 @@ The project includes extensive documentation:
 - **Uvicorn** - ASGI server
 - **HTTPx** - HTTP client for testing
 
-## Additional Features
-
-Beyond the basic requirements, this project includes:
-
-- **Setup Scripts**: Automated installation and testing
-- **Sample Data**: Pre-populated data for demonstrations
-- **Interactive Docs**: Swagger UI for API exploration
-- **Comprehensive Tests**: Edge cases and error conditions
-- **Production Patterns**: Proper error handling and logging
-
 ## Getting Help
 
 - Check `README.md` for setup instructions
