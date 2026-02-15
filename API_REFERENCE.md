@@ -591,10 +591,5 @@ Force deregister any student from a course (admin only).
 
 ---
 
-## Postman Collection
-
-Import this collection into Postman for easy testing:
-
-[Collection URL would go here in a real project]
-
-Alternatively, use the interactive Swagger UI at http://127.0.0.1:8000/docs
+## Manual Testing
+Use the interactive Swagger UI at http://127.0.0.1:8000/docs
